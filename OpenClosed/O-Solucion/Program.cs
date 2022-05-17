@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace O_Solucion
 {
@@ -6,7 +7,15 @@ namespace O_Solucion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<ICorredor> corredores = new List<ICorredor>();
+
+            corredores.Add(new Caballo("Juanito"));
+            corredores.Add(new Formula1("Mercedez"));
+            corredores.Add(new Persona("Martin"));
+
+            Carrera carrera = new Carrera(corredores);
+
+            carrera.iniciarCarrera();
         }
     }
 }

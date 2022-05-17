@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "O-Solucion/1.0.0": {
+        "runtime": {
+          "O-Solucion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "O-Solucion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

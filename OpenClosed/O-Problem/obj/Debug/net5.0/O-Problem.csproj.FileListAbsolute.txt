@@ -1,0 +1,16 @@
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\bin\Debug\net5.0\O-Problem.exe
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\bin\Debug\net5.0\O-Problem.deps.json
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\bin\Debug\net5.0\O-Problem.runtimeconfig.json
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\bin\Debug\net5.0\O-Problem.runtimeconfig.dev.json
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\bin\Debug\net5.0\O-Problem.dll
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\bin\Debug\net5.0\ref\O-Problem.dll
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\bin\Debug\net5.0\O-Problem.pdb
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\obj\Debug\net5.0\O-Problem.csproj.AssemblyReference.cache
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\obj\Debug\net5.0\O-Problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\obj\Debug\net5.0\O-Problem.AssemblyInfoInputs.cache
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\obj\Debug\net5.0\O-Problem.AssemblyInfo.cs
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\obj\Debug\net5.0\O-Problem.csproj.CoreCompileInputs.cache
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\obj\Debug\net5.0\O-Problem.dll
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\obj\Debug\net5.0\ref\O-Problem.dll
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\obj\Debug\net5.0\O-Problem.pdb
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\OpenClosed\O-Problem\obj\Debug\net5.0\O-Problem.genruntimeconfig.cache

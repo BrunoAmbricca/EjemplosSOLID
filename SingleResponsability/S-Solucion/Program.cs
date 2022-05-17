@@ -1,4 +1,6 @@
-﻿using System;
+﻿using S_Solucion.Controllers;
+using S_Solucion.Models;
+using System;
 
 namespace S_Solucion
 {
@@ -6,7 +8,14 @@ namespace S_Solucion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CotizacionController cotizacionController = new CotizacionController();
+            Camisa camisa = new Camisa(false, 100, false, false);
+            Pantalon pantalon = new Pantalon(false, 100, false);
+
+            cotizacionController.crearCotizacion("HJDO209D", camisa, 2500, 10);
+            cotizacionController.crearCotizacion("HJDO209D", pantalon, 2500, 10);
+
+            Console.WriteLine(cotizacionController.getListaCotizaciones());
         }
     }
 }

@@ -1,0 +1,16 @@
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\obj\Debug\net5.0\S-Problema.csproj.AssemblyReference.cache
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\obj\Debug\net5.0\S-Problema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\obj\Debug\net5.0\S-Problema.AssemblyInfoInputs.cache
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\obj\Debug\net5.0\S-Problema.AssemblyInfo.cs
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\obj\Debug\net5.0\S-Problema.csproj.CoreCompileInputs.cache
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\bin\Debug\net5.0\S-Problema.exe
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\bin\Debug\net5.0\S-Problema.deps.json
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\bin\Debug\net5.0\S-Problema.runtimeconfig.json
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\bin\Debug\net5.0\S-Problema.runtimeconfig.dev.json
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\bin\Debug\net5.0\S-Problema.dll
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\bin\Debug\net5.0\ref\S-Problema.dll
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\bin\Debug\net5.0\S-Problema.pdb
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\obj\Debug\net5.0\S-Problema.dll
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\obj\Debug\net5.0\ref\S-Problema.dll
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\obj\Debug\net5.0\S-Problema.pdb
+D:\Escritorio\Quark\Etapa1\SOLID\EjemplosSOLID\SingleResponsability\S-Problema\obj\Debug\net5.0\S-Problema.genruntimeconfig.cache

@@ -6,7 +6,7 @@ namespace L_Problema
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
